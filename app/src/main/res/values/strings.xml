@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Online Store</string>
+    <string name="cart_quantity">%1$dx</string>
+</resources>
